@@ -17,5 +17,5 @@ Simulação em Python de um sistema de controle de níveis de água para reserva
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/monitoramento_agua.git](https://github.com/SEU_USUARIO/monitoramento_agua.git)
+   git clone [https://github.com/gabrielstavares2008-design/monitoramento_agua.git](https://github.com/gabrielstavares2008-design/monitoramento_agua.git)
    cd monitoramento_agua
